@@ -120,6 +120,11 @@ in your conversion program.  Would you be able
 to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
+ANSWER
+
+No using only int type would not be sufficient fo convert the US national debt of $26,009,754,624,487.
+The maximum value that can be stored in an int is 2,147,483,647,which is far less than the national debt.
+Therefore the program would not be able to accurately represent or handle such a large number.
 
 
 
