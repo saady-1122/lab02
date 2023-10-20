@@ -25,7 +25,15 @@ Hello, DennisRitchie.  You are 20 years, 5 weeks, and 6 days old today
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
+ANSWER
 
+Please Enter Your First Name (no spaces) followed by ENTER: BjarnStrousstrup
+Enter the year in which you were born: 2008
+Enter the month in which you were born (1-12): 12
+Enter the day of the month in which you were born (1-31): 30
+Today is 2023/10/20
+Your birthday was 2008/12/30
+Hello, BjarnStrousstrup.  You are 14 years, 41 weeks, and 6 days old today
 
 
 
