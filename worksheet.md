@@ -43,9 +43,17 @@ referred to as *fuzzing*).  Try breaking the `birthday_cli`
 program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
+ANSWER
 
+1) PS E:\labwrk\CSCE155-C-Lab02> .\a.exe mashal 2000 18 788
+Today is 2023/10/20
+Your birthday was
+Hello, mashal.  You are 20 years, 12 weeks, and 0 days old today.
 
-
+2)PS E:\labwrk\CSCE155-C-Lab02> .\a.exe munazaa 2000 20 56
+Today is 2023/10/20
+Your birthday was
+Hello, munazaa.  You are 22 years, 3 weeks, and 3 days old today.
 
 4. Complete all the size and range entries below.
 
