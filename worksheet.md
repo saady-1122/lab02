@@ -81,10 +81,37 @@ Hello, munazaa.  You are 22 years, 3 weeks, and 3 days old today.
 the exchange amounts for the following inputs:
 
   a) $250.25
+  ANSWER
 
+PS E:\labwrk\CSCE155-C-Lab02> gcc .\dollar.c
+PS E:\labwrk\CSCE155-C-Lab02> .\a.exe
+Please input the total amount of US Dollars: 250
+Fee (10%): $25.00
+You get:
+88.88 GBP
+14360 JPY
   b) $1,000.52
+  ANSWER
+
+PS E:\labwrk\CSCE155-C-Lab02> gcc .\dollar.c
+PS E:\labwrk\CSCE155-C-Lab02> .\a.exe
+Please input the total amount of US Dollars: 1000.52
+Fee (10%): $100.05
+You get:
+355.68 GBP
+57472 JPY
+
 
   c) $968,410.12
+ANSWER
+PS E:\labwrk\CSCE155-C-Lab02> git add *
+PS E:\labwrk\CSCE155-C-Lab02> gcc .\dollar.c
+PS E:\labwrk\CSCE155-C-Lab02> . .\a.exe
+Please input the total amount of US Dollars: 968,410.12
+Fee (10%): $96.80
+You get:
+344.12 GBP
+55604 JPY
 
 
 
