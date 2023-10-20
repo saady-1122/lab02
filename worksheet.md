@@ -10,7 +10,15 @@ Name(s) and Login(s):
 was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
+ANSWER
 
+Please Enter Your First Name (no spaces) followed by ENTER: DennisRitchie 
+Enter the year in which you were born: 2003
+Enter the month in which you were born (1-12): 9
+Enter the day of the month in which you were born (1-31): 9
+Today is 2023/10/20
+Your birthday was 2003/09/09
+Hello, DennisRitchie.  You are 20 years, 5 weeks, and 6 days old today
 
 
 
