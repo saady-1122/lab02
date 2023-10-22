@@ -134,10 +134,47 @@ Therefore the program would not be able to accurately represent or handle such a
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
 
+// ANSWER 
+
+Please enter the base of a triangle: 3
+Please enter the height of a triangle: 4
+The area is 0.000000 square units.
+
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
 
+// ANSWER 
+
+Please enter the base of a triangle: 3
+Please enter the height of a triangle: 5
+The area is 0.000000 square units.
+
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+
+// ANSWER 
+
+
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+
+  double area, base, height;
+
+  printf("Please enter the base of a triangle: ");
+
+  scanf("%lf", &base);
+
+  printf("Please enter the height of a triangle: ");
+
+  scanf("%lf", &height);
+
+  area = 0.5 * base * height;
+
+  printf("The area is %f square units.\n", area);
+
+  return 0;
+}
